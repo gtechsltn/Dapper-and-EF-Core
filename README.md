@@ -3,6 +3,9 @@
 + Dapper is simpler than EF Core because it uses raw SQL queries and has fewer features. However, EF Core provides a higher-level abstraction over the database and has more features. Dapper supports many databases, including SQL Server, MySQL, and PostgreSQL.
 + https://www.c-sharpcorner.com/article/dapper-vs-entity-framework-core/
 
+## CQRS Ninja is a boilerplate solution, built to demonstrate implementing CQRS in ASP.NET Core (.NET 6) via MediatR
++ https://github.com/referbruv/CqrsNinja
+
 ## Documentation
 + **Dapper and Entity Framework Core**
 + https://arbems.com/en/dapper-and-entity-framework-core-in-net-6/
