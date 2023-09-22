@@ -25,3 +25,6 @@
 + https://code-maze.com/swagger-ui-asp-net-core-web-api/
 + https://www.c-sharpcorner.com/article/swagger-in-dotnet-core/
 + https://www.tutussfunny.com/asp-net-core-entity-framework-web-api-crud-create-read-update-delete/
+
+## EF 6.x
++ https://github.com/gtechsltn/EF6-DBFirst-Demo
