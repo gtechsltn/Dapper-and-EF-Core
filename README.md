@@ -6,6 +6,10 @@
 ## CQRS Ninja is a boilerplate solution, built to demonstrate implementing CQRS in ASP.NET Core (.NET 6) via MediatR
 + https://github.com/referbruv/CqrsNinja
 
+## Dapper and EF Core
++ https://github.com/iammukeshm/EFCoreAndDapper/
++ https://github.com/arbems/dapper-and-EF-Core/
+
 ## Documentation
 + **Dapper and Entity Framework Core**
 + https://arbems.com/en/dapper-and-entity-framework-core-in-net-6/
