@@ -1,5 +1,7 @@
 # Dapper and Entity Framework Core in .NET 6
-This repository contains examples that show how to use Dapper and Entity Framework Core together in the same application.
++ This repository contains examples that show how to use Dapper and Entity Framework Core together in the same application.
++ Dapper is simpler than EF Core because it uses raw SQL queries and has fewer features. However, EF Core provides a higher-level abstraction over the database and has more features. Dapper supports many databases, including SQL Server, MySQL, and PostgreSQL.
++ https://www.c-sharpcorner.com/article/dapper-vs-entity-framework-core/
 
 ## Documentation
 + **Dapper and Entity Framework Core**
